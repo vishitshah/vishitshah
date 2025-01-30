@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Vishit Shah
 
-## WordPress Developer, Premium Thene and Plugin Developer, Leader, WordCamp Organiser, WP Core Contributor, Consultant
+## WordPress Developer, Premium Theme and Plugin Developer, Leader, WordCamp Organiser, WP Core Contributor, Consultant
 
 Here are some ideas to get you started:
 
